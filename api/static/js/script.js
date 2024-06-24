@@ -45,4 +45,4 @@ document.addEventListener("DOMContentLoaded", () => {
   }, 2000);
 });
 
-console.log("Version 1.33")
+console.log("Version 1.34")
