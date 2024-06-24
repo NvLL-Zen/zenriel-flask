@@ -44,3 +44,5 @@ document.addEventListener("DOMContentLoaded", () => {
     glitchText("P1-D1-H1", changeName);
   }, 2000);
 });
+
+console.log("Version 1.33")
